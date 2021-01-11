@@ -15,8 +15,8 @@ __license__ = "MIT"
 import csv
 from quotes.models import Quotation, Category
 
-CSV_PATH = 'quote_data/dad-joke.txt'
-CAT_ID = 12
+CSV_PATH = 'quote_data/halloween.txt'
+CAT_ID = 13
 
 contSuccess = 0
 # Remove all data from Table
